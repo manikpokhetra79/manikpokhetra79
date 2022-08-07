@@ -4,7 +4,7 @@ Welcome to my profile.
 
 - I'm a full stack web developer.
 - I use Javascript daily.
-- I'm currently learning Aws and serverless.
+- I'm currently working on project leveraging Aws services and serverless framework.
 - Pronouns : He/Him
 
 ### Find me here:
